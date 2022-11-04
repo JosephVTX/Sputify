@@ -1,6 +1,10 @@
+import { Nav } from "./components/nav/Nav"
+
 const App = () => {
   return (
-    <div>aea mano</div>
+    <>
+      <Nav/>
+    </>
   )
 }
 export default App
